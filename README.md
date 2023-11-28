@@ -1,5 +1,5 @@
-# 1er-projetecho "
-# 1er-projet" >> README.md
+# 1er-projet
+# Test README
   git init
   git add README.md
   git commit -m "first commit"
